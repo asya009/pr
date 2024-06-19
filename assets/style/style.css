@@ -422,3 +422,80 @@
     font-size: 18px;
     font-weight: 100;
 }
+.avt .container{
+    margin-top: -120px;
+}
+.avt .container .texts{
+    font-family: "Marrie";
+}
+.avt .container .texts p{
+    font-family: "Lato";
+}
+.avt .container .texts{
+    text-align: center;
+    margin-top: 10px;
+}
+.avt .container .avtor{
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px;
+    align-items: center;
+}
+.avt .container .avtor p{
+    margin-bottom: 9px;
+    margin-left: -35%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.avt .container .avtor .input-auth{
+    margin-bottom: 20px;
+    font-size: 20px;
+    border:2px solid #0fa7a4;
+    width: 40%;
+    color: #000000;
+    height: 40px;
+}
+.avt .container .button-auth5{
+    background-color:#F87932;
+    color: rgb(250, 255, 245);
+    padding: 16px 34px 16px 34px;
+    margin-top: 40px;
+    margin-left: 45%;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.avt .container .button-auth5:hover {
+    transition: 1s ease-in-out;
+    background: #0fa7a4;
+  }
+  
+.trip .container .button-auth4:hover svg {
+    stroke-dashoffset: -480;
+  }
+  
+  .trip .container .button-auth4 span {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 100;
+}
+.trip .container{
+    background-image: url(/assets/img/11111.jpg);
+}
+.trip .container .day h3{
+    font-family: "Ave";
+    color: #6f6f6f;
+}
+.trip .container .day p{
+    font-family: "Marrie";
+    font-size: 40px;
+    color: #DDDDDD;
+}
+
+.trip{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 1920px;
+    margin-top: -2%;
+}
