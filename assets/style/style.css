@@ -538,3 +538,270 @@
     margin-top: 20px;
     padding-bottom: 80px;
 }
+
+@media (max-width: 1200px) {
+    .container{
+        width: 950px !important;
+    }
+    .header .container .str1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .header .container .str1 .text{
+        margin-top: 200px;
+        margin-left: 30px;
+    }
+    .header .container .str1 .rombiki{
+    margin-top: -40%;
+    margin-left: 190px;
+    }
+    .Advantages .container .dadada{
+        width: 90%;
+    }
+    .Advantages .container img {
+        width: 450px;
+        height: 336.94px;
+    }
+    .blokk .container .groups{
+        width: 50%;
+    }
+    .news .container .section {
+       display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+        align-items: center;
+    }
+    .news .container .cetka2{
+        margin-left: -0.5px;
+    }
+    .blokk .container .groups img{
+        width: 204px;
+        height: 204px;
+        margin-top: 100%;
+    }
+    .blokk .container .groups{
+        margin-right: 60%;
+    }
+    .blokk .container .column h1{
+        margin-left: 30%;
+    }
+    .blokk .container .column p{
+        margin-left: 30%;
+    }
+    .blokk .container .column img{
+        margin-left: 30%;
+    }
+    .header .container .str1 .rombiki .pic-2{
+        width: 250px;
+    }
+    .header .container .str1 .rombiki .pic-1{
+        width: 250px;
+    }
+    .header .container .str1 .rombiki .pic-3{
+        width: 150px;
+    }
+    .header .container .str1 .rombiki .pic-6{
+        width: 150px;
+    }
+    .header .container .str1 .rombiki{
+        width: 300px;
+    }
+    .header .container .str1 .text{
+        width: 300px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container{
+        width: 720px !important;
+    }
+    .header .container .navigation .knopki{
+        width: 600px;
+    }
+    .header .container .navigation .knopki .knopka2{
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    .header .container .navigation .knopki .knopka3{
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    .header .container .str1{
+        width: 700px;
+    }
+    .avt .container .texts{
+        margin-top: 120px;
+    }
+    .avt .container .avtor p{
+        margin-left: -200px;
+    }
+    .trip .container .group{
+        margin-left: -15px;
+    }
+    .blokk .container .column h1{
+        font-size: 50px;
+        
+    }
+    .blokk .container .groups{
+        padding-left: -40px;
+        padding-right: 140px;
+    }
+    .blokk .container .groups img{
+        width: 150px;
+        height: 150px;
+        margin-top: 280%;
+    }
+    .header .container .str1 .odin p{
+        font-size: 50px;
+    }
+    .header .container .str1 .dva p{
+        font-size: 50px;
+    }
+    .header .container .str1 .rombiki{
+        width: 100px;
+        height: 100px;
+    }
+    .Advantages .container .dadada{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Advantages .container .button-auth2{
+        margin-left: 40%;
+    }
+    .header .container .str1 .rombiki .pic-1 img{
+        width: 316px;
+    }
+    .header .container .str1 .rombiki .pic-1{
+        margin-top: -60px;
+        margin-left: 130px;
+    }
+    .header .container .str1 .rombiki .pic-6 img{
+        display: none;
+    }
+    .header .container .str1 .rombiki .pic-5 img{
+        display: none;
+    }
+    .header .container .str1 .rombiki .pic-4 img{
+        display: none;
+    }
+    .header .container .str1 .rombiki .pic-2 img{
+        display: none;
+    }
+    .header .container .str1 .rombiki .pic-3{
+        display: none;
+    }
+    .blokk .container .column h1{
+        width: 700px;
+    }
+}
+@media (max-width: 768px) {
+    .container{
+        width:  540px !important;
+    }
+    .header .container .str1 .rombiki .pic-1 img{
+        width: 216px;
+    }
+    .header .container .navigation .knopki{
+        width: 400px;
+        text-align: center;
+    }
+    .blokk .container .groups img{
+        width: 100px;
+        height: 100px;
+    }
+    .blokk .container .column img {
+        width: 64.69px;
+        height: 64.69px;
+    }
+    .blokk .container .column h1{
+        font-size: 30px;
+        width: 290%;
+        padding-left: 70px;
+    }
+    .blokk .container .column p{
+        font-size: 11px;
+        width: 190%;
+        margin-top: -90px;
+        padding-left: 80px;
+    }
+    .blokk .container{
+        height: 600px;
+    }
+    .blokk .container .column img{
+        margin-left: 120px;
+    }
+    .trip .container .group .pppp img{
+        width: 123px;
+        height: 66px;
+    }
+    .trip .container .day p{
+        font-size: 25px;
+    }
+    .trip .container .nomer img{
+        width: 52px;
+        height: 52px;
+    }
+    .news .container .cetka .vtoroe img {
+        height: 182px;
+        width: 182px;
+    }
+    .news .container .cetka .pervoe img{
+        width: 182px;
+    }
+    .news .container .cetka2 .pervoe img {
+        height: 182px;
+        width: 182px;
+    }
+    .news .container .cetka2 img{
+        width: 388px;
+    }
+    .header .container .str1 .rombiki .pic-1{
+        width: 100px;
+    }
+    .header .container .str1{
+        width: 530px;
+    }
+}
+@media (max-width: 576px) {
+    .container{
+        width:  98%;
+    }
+}
+@media (max-width: 480px) {
+    .container{
+        width:  98% !important;
+    }
+    .trip .container .texts h1{
+        font-size: 40px;
+        margin-top: -80px;
+    }
+    .footer .container .colum .colum2{
+        font-size: 11px;
+    }
+    .footer .container .colum .colum3{
+        font-size: 11px;
+    }
+    .footer .container .colum .colum4{
+        font-size: 11px;
+    }
+    .avt .container .texts{
+        margin-top: -30px;
+    }
+    .avt .container .button-auth5{
+        margin-left: 170px;
+    }
+    .trip .container .texts p{
+        font-size: 11px;
+    }
+    .header .container .str1 .rombiki .pic-1 img {
+        width: 116px;
+    }
+    .header .container .navigation .knopki{
+        width: 300px;
+        margin-left: -150px;
+    }
+    .header .container .str1{
+        width: 460px;
+    }
+}
