@@ -499,3 +499,21 @@
     height: 1920px;
     margin-top: -2%;
 }
+.footer{
+    background-color: #151C21;
+}
+.footer .container .colum{
+    display: flex;
+    flex-direction: row;
+    color: #ffffff;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer .container .colum h3{
+    margin-top: 15px;
+}
+.footer .container .colum img{
+    width: 56.91px;
+    height: 112px;
+}
