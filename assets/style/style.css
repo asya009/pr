@@ -288,3 +288,79 @@
     width: 164.69px;
     height: 164.69px;
 }
+.news .container{
+    margin-top: 3%;
+}
+.news .container .texts{
+    text-align: center;
+    margin-top: 96.3px;
+}
+.news .container .texts h1{
+    margin-top: 15px;
+    font-family: "Monserrat";
+}
+.news .container .texts h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: "Monserrat";
+}
+.news .container .texts p {
+    margin-top: 15px;
+    font-family: "Lato";
+    letter-spacing: 3px;
+}
+.news .container .cetka .vtoroe{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+.news .container .cetka .vtoroe img{
+    height: 282px;
+    width: 282px;
+    margin-bottom: 17px;
+}
+.news .container .cetka{
+    display: flex;
+    flex-direction: row;
+}
+.news .container .cetka2 .pervoe{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+} 
+.news .container .cetka2 .pervoe .lololo{
+    margin-right: 22px;
+}
+.news .container .section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+}
+.news .container .cetka2{
+    margin-left: 15px;
+}
+.news .container .button-auth3{
+    color: rgb(0, 0, 0);
+    padding: 16px 34px 16px 34px;
+    background-color: white;
+    border: 2px solid #000000;
+    display: flex;
+    margin-left: 43%;
+    margin-top: 60px;
+    margin-bottom: 77px;
+    cursor: pointer;
+}
+.news .container .button-auth3:hover {
+    transition: 1s ease-in-out;
+    background: #ff7e05;
+  }
+  
+  .news .container .button-auth3:hover svg {
+    stroke-dashoffset: -480;
+  }
+  
+  .news .container .button-auth3 span {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 100;
+}
