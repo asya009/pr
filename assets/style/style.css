@@ -364,3 +364,61 @@
     font-size: 18px;
     font-weight: 100;
 }
+.trip .container .texts{
+    text-align: center;
+    color: #ffffff;
+}
+.trip .container .texts p{
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Lato";
+    letter-spacing: 5px;
+}
+.trip .container .texts h1{
+    margin-bottom: 32px;
+    padding-top: 180px;
+    font-family: "Marrie";
+    font-size: 70px;
+}
+.trip .container .day{
+    margin-left: 50%;
+    font-size: 20px;
+}
+.trip .container .nomer{
+    margin-right: -45%;
+    font-size: 30px;
+    margin-left: 44%;
+}
+.trip .container .group{
+    display: flex;
+    flex-direction: row;
+    margin-top: 67px;
+    color: #ffffff;
+}
+.trip .container .group .pppp{
+    margin-right: -28%;
+    margin-left: 10%;
+}
+.trip .container .button-auth4{
+    background-color:#F87932;
+    color: rgb(250, 255, 245);
+    padding: 16px 24px 16px 24px;
+    margin-top: 80px;
+    margin-left: 45%;
+    margin-bottom: 160px;
+    cursor: pointer;
+}
+.trip .container .button-auth4:hover {
+    transition: 1s ease-in-out;
+    background: #0ecbbe;
+  }
+  
+  .trip .container .button-auth4:hover svg {
+    stroke-dashoffset: -480;
+  }
+  
+  .trip .container .button-auth4 span {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 100;
+}
