@@ -14,7 +14,7 @@
 }
 
 .header{
-    background-image: url(/assets/img/BG.png);
+    background-image: url(./assets/img/BG.png);
     height: 1006px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -237,7 +237,7 @@
     margin-left: 50px;
 }
 .blokk .container{
-    background-image: url(/assets/img/444444.png);
+    background-image: url(./assets/img/444444.png);
     width: 1920px;
     height: 1006px;
     display: flex;
@@ -479,7 +479,7 @@
     font-weight: 100;
 }
 .trip .container{
-    background-image: url(/assets/img/11111.jpg);
+    background-image: url(./assets/img/11111.jpg);
 }
 .trip .container .day h3{
     font-family: "Ave";
